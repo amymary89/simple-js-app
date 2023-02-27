@@ -1,1 +1,1 @@
-pokemonList= [{name: 'Charmander', type: 'fire' , height: 2}, {name: 'Squirtle', type: 'water', height: 1}, {name: 'Pikachu', type: 'electric' ,height: 1.4}]
+pokemonList= [{name: 'Charmander', type: 'fire' , height: 2},{name: 'Squirtle', type: 'water', height: 1},{name: 'Pikachu', type: 'electric' , height: 1.4},{name: 'Jigglypuff', type: ['normal','fairy'], height: 1.8}]
